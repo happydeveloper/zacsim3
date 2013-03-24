@@ -1,10 +1,11 @@
 zacsim3
 =======
 
+
 작심3일 기록
 
 * egoing 님 강의
-
+[작심삼일 소개 및 모임](http://onoffmix.com/event/13479?fb_action_ids=10200386921488380&fb_action_types=og.likes&fb_source=aggregation&fb_aggregation_id=246965925417366)
 -  2013.03.23 10:00 - 18:00
 -  2013.03.24 10:00 - 18:00
 
