@@ -12,7 +12,7 @@ zacsim3
 ![작심3일 시작](./images/start.png "공동공부")
 
 ## 진행히스토리
--  각 수업 교시 마다 태그를 남겨 그때 상태를 기록함
+-  각 수업 교시 마다 태그를 남김 - [수업 시점 진행 상황으로 돌아갈때](https://github.com/happydeveloper/zacsim3/tags)
 ![작심3일 history](./images/history_log.png "공동공부")
 
 
