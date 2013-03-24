@@ -123,7 +123,7 @@
 - sudo chmod -R 777 .
 
 ## 파일 업로드 & 서버 업로드된 사이트 뷰
-![작심3일 모바일 결과문](complete_mobile.PNG "공동공부")
+![작심3일 모바일 결과문](./images/complete_mobile.png "공동공부")
 
 
 # 생활코딩 2일쨰 - 마무리
